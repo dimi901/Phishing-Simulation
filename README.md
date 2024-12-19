@@ -2,7 +2,7 @@
 
 ## Objective
 
-In December 2024, I completed the Mastercard Cybersecurity Virtual Experience Program on Forage, where I served as an analyst on Mastercard’s Security Awareness Team. During this project, I identified and reported security threats such as phishing, analyzed areas needing enhanced security training, and implemented targeted training courses and procedures to strengthen the organization's cybersecurity posture.
+In December 2024, I completed the Mastercard Cybersecurity Virtual Experience Program on Forage, where I served as an analyst on Mastercard’s Security Awareness Team. During this project, I identified and reported security threats such as phishing, analyzed areas needing enhanced security training, and implemented a targeted training presentation to strengthen the organization's cybersecurity posture.
 
 ### Skills Learned
 
@@ -31,7 +31,7 @@ Body:
 
 Hello [Employee Name],
 
-We have detected unusual activity on your Mastercard employee email account. As a precautionary measure, we require you to reset your password immediately to ensure the security of your    account.
+We have detected unusual activity on your Mastercard employee email account. As a precautionary measure, we require you to reset your password immediately to ensure the security of your account.
 
 Please follow the link below to reset your password within the next hour. Failure to do so may result in temporary suspension of your email account access.
 
@@ -54,7 +54,7 @@ Mastercard IT Support
 
 <img width="729" alt="Screenshot 2024-12-19 at 12 24 33 AM" src="https://github.com/user-attachments/assets/a9b9adf7-6b82-4f46-9bbb-ece520bef415" />
 
-*The phishing campaign results show that the HR and Marketing teams are more likely to fall for a phishing email than others.*
+**The phishing campaign results show that the HR and Marketing teams are more likely to fall for a phishing email than others.*
 
 ### *4: Design and implement the appropriate training for teams that appear most susceptible*
 
